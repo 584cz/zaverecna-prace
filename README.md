@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://github.com/584cz/piskvorky/assets/81913876/61b02708-2a34-4356-8358-354d9c4e315d" scale="30%">
+<img src="https://github.com/584cz/zaverecna-prace/assets/81913876/2374c265-82d3-409d-b442-497b7ef6421d" scale="30%">
 </p>
 
 <div align="center">
-  <h2>
   <a href="#vývojový-diagram">vývojový diagram</a> •
   <a href="#popis-práce">popis práce</a> •
   <a href="#ovládání-programu">ovládání programu</a> •
@@ -13,7 +12,7 @@
 
 # vývojový diagram
 <p align="center">
-  <img src="https://github.com/584cz/piskvorky/assets/81913876/58c0ecb7-f757-4bb3-99ed-b2f3d4573ba4" scale="50%">
+  <img src="https://github.com/584cz/zaverecna-prace/assets/81913876/81233f57-fc1e-4d9f-8da1-34bfa411b84e" scale="50%">
 </p>
 
 # popis práce
@@ -32,7 +31,7 @@
   - Výběr herního módu se provádí zadáním čísla 1-3 v menu.
   - Každý hráč má možnost zadávat své tahy prostřednictvím čísel od 1 do 9, které odpovídají políčkům herního pole.
   - Políčka herního pole jsou uspořádána následovně:
-  - <img src="https://github.com/584cz/piskvorky/assets/81913876/9dd37572-78e6-4e9e-ae6d-6e3e4a632a84" scale="50%">
+  - <img src="https://github.com/584cz/zaverecna-prace/assets/81913876/59368b4e-7d24-4714-995e-757cdce0ce89" scale="50%">
   - Hra skončí když se spojí tři stejné znaky diagonálně, horizontálně, vertikálně nebo jako remíza.
   - Po skončení hry je hráči nabídnuta možnost hrát znovu nebo ukončit program.
     
