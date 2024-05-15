@@ -36,5 +36,6 @@
   - Hra skončí když se spojí tři stejné znaky diagonálně, horizontálně, vertikálně nebo jako remíza.
   - Po skončení hry je hráči nabídnuta možnost hrát znovu nebo ukončit program.
     
-# poznámky
-úkol do školy 😎👍
+# poznámky 
+  - Doporučuji používat externí terminál. V code::blocks je od začátku a ve VS Code doporučuji extension Code Runner nebo si to nastavit.
+  - Úkol do školy 😎👍
